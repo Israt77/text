@@ -1,0 +1,38 @@
+h1{
+	color: green;
+	background-color: blue;
+}
+p{
+	color: blue;
+}
+.head5{
+	color: red;
+}
+#h1{
+	color: green;
+	background-color: skyblue;
+}
+.wrapper{
+	width: 60%;
+	margin: 0 auto;
+	border: 5px solid #ddd;
+}
+.first_name,.last_name,.email,.password,{
+	width: 90%;
+	height: 25px;
+	padding: 10px;
+	font-size: 18px;
+}
+.message{
+	font-size: 18px;
+	padding: 10px;
+}
+table{
+	width: 100%;
+	border: 1px solid black;
+}
+th,td{
+	font-size: 20px;
+	text-align: center;
+	border: 1px solid black;
+}
